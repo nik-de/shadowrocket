@@ -18,4 +18,7 @@ DOMAIN-SUFFIX,spotifycodes.com
 DOMAIN-SUFFIX,spotifyforbrands.com
 DOMAIN-SUFFIX,spotifyjobs.com
 DOMAIN-KEYWORD,-spotify-com
+DOMAIN-SUFFIX,branch.io
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,fbcdn.net
 IP-CIDR,35.186.224.47/32,no-resolve
